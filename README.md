@@ -9,10 +9,13 @@ students enrolled in the class.
 4. The system along with attendance saves the login time of the students in
 an excel sheet.
 
-![Image 3](https://user-images.githubusercontent.com/44273760/119519906-74124d80-bd97-11eb-9695-2ed3d04f7cde.png)
+![Image 1](https://user-images.githubusercontent.com/44273760/119520117-a0c66500-bd97-11eb-913d-3c23dce90d72.png)
 
-![Image 4](https://user-images.githubusercontent.com/44273760/119519915-75dc1100-bd97-11eb-8ab8-2be4e5d4dd61.png)
+![Image 2](https://user-images.githubusercontent.com/44273760/119520138-a623af80-bd97-11eb-949d-1be0bd794636.png)
 
-![Image 1](https://user-images.githubusercontent.com/44273760/119519918-75dc1100-bd97-11eb-8353-32ddae6d727d.png)
+![Image 3](https://user-images.githubusercontent.com/44273760/119520148-a9b73680-bd97-11eb-862c-3c8e42fa7886.png)
 
-![Image 2](https://user-images.githubusercontent.com/44273760/119519919-7674a780-bd97-11eb-99d1-1156c668e416.png)
+![Image 4](https://user-images.githubusercontent.com/44273760/119520157-ac199080-bd97-11eb-9bd4-16b1cafc7743.png)
+
+
+
