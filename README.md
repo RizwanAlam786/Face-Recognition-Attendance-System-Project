@@ -1,9 +1,9 @@
 # Face-Recognition-Attendance-System-Project
 1. A model trained to check the attendance of students through webcam.
-2. 
-3. The model has been trained using the "OpenCV" library.
-4. 
-5. The model is also fed with a dataset that has the list of images of the
+ 
+2. The model has been trained using the "OpenCV" library.
+ 
+3. The model is also fed with a dataset that has the list of images of the
 students enrolled in the class.
 
 4. The system along with attendance saves the login time of the students in
